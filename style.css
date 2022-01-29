@@ -1,0 +1,32 @@
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin-top: 0;
+    box-shadow: 5px 5px 5px springgreen;
+}
+
+.note{
+    font-size: 15px;
+    color: turquoise;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:black;
+    bottom:0;
+    width: 100%;
+    background-color: yellowgreen;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border:5px solid plum;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px peru;
+    
+}
+
+body{
+    font-family: 'Neonderthaw', cursive;
+}
